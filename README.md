@@ -73,7 +73,7 @@ retail-banking-customer-analytics/
 
 ---
 
-## 🚀 How to Reproduce the Analysis
+## How to Reproduce the Analysis
 
 1. Download dataset from `/data`
 2. Run SQL script in SQLite / DBeaver
@@ -82,7 +82,7 @@ retail-banking-customer-analytics/
 
 ---
 
-## 💡 Project Goal
+##  Project Goal
 
 This project demonstrates the ability to translate business questions into  
 data-driven insights using multiple analytical tools.
